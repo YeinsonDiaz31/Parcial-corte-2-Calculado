@@ -105,7 +105,7 @@ function init() {
     back.onclick = function (e){
 
         resultado.textContent = lista;
-        limpiar();
+        
     }
 
 
